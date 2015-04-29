@@ -3,7 +3,7 @@ About : This repo contains code for Hashing an array of size N with worst case s
 How to use : 
 ##########################
 *	Code is written in c++. 
-*	Compile it using flag -std=c++0x. Example - 'g++ code.cpp -o code -std=c++0x". 
+*	Compile it using flag -std=c++0x. Example - "g++ code.cpp -o code -std=c++0x". 
 *	file `simple.cpp` uses simple hashing technique. 
 *	file `code.cpp` actually impliments 'Perfect Hashing' with space optimization.
 *	To use it in a project - copy paste the whole code. Create a vector of elements to be hashed. Declare a class GoodHashing. Example - GoodHashing hs. Pass the vector as an argument. 
@@ -13,6 +13,5 @@ How to use :
 #############################
 Reference and Acknowledgement :
 ########################
-*	We thank Prof. Surender Baswana (homepage : http://www.cse.iitk.ac.in/users/sbaswana/) for teaching and guiding us while doing this project. His lectures were very inspirational to us. It is him, because of which we are able to do whatever we did.
 
 *	we read this - http://www.cs.dartmouth.edu/~ac/Teach/CS105-Winter05/Handouts/fks-perfecthash.pdf for memory optimizations part.
